@@ -22,12 +22,15 @@ Frontend Developer
 ### Badges
 
 ## 📊 My Github Stats
-  <a href="http://www.github.com/nafisaali0"><img align="left" style="width: 47%; height: 150px;" src="https://github-readme-stats.vercel.app/api?username=nafisaali0&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="nafisaali0's GitHub stats" /></a>
+<a href="http://www.github.com/nafisaali0"><img align="left" style="width: 45%; height: 150px;" src="https://github-readme-stats.vercel.app/api?username=nafisaali0&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="nafisaali0's GitHub stats" /></a>
+<a href="http://www.github.com/nafisaali0"><img align="right" style="width: 45%; height: 150px;" src="https://github-readme-streak-stats.herokuapp.com/?user=nafisaali0&stroke=ffffff&background=27272a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<br /><br /><br /><br /><br /><br /><br /><br />
 
-  <a href="http://www.github.com/nafisaali0"><img align="right" style="width: 47%; height: 150px;" src="https://github-readme-streak-stats.herokuapp.com/?user=nafisaali0&stroke=ffffff&background=27272a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-
-
-
+<b>Top Repositories</b> 
+<div width="100%" align="center"> 
+<a href="https://github.com/nafisaali0/jest-blog-client-side" align="left">
+<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=nafisaali0&repo=jest-blog-client-side&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&locale=en" />
+</a>
+</div>
+<br /><br /><br /><br /><br /><br /><br />
 
