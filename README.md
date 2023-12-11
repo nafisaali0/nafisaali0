@@ -23,7 +23,7 @@ Frontend Developer
 
 ## 📊 My Github Stats
 
-<p align="center" display="flex">
+<p  display="flex">
   <a href="http://www.github.com/nafisaali0"><img src="https://github-readme-stats.vercel.app/api?username=nafisaali0&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="nafisaali0's GitHub stats" /></a>
   <a href="http://www.github.com/nafisaali0"><img src="https://github-readme-stats.vercel.app/api?username=nafisaali0&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="nafisaali0's GitHub stats" /></a>  
 </p>
