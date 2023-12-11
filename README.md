@@ -36,7 +36,7 @@ As a junior front-end developer, I specialize in building dynamic and responsive
 <a href="http://www.github.com/nafisaali0"><img align="right" style="width: 45%; height: 150px;" src="https://github-readme-streak-stats.herokuapp.com/?user=nafisaali0&stroke=ffffff&background=27272a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br /><br /><br /><br /><br /><br /><br /><br />
 
-## Top Repositories 📈 : 
+## Top Repositories 📁 : 
 
 <br/>
 <div width="100%" align="center"> 
