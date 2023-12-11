@@ -3,13 +3,13 @@ Hey there 👋
 
 Frontend Developer
 ------------------
-<img alt="Coding" align="right" height="150" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif"><br /><br />
+<img alt="Coding" align="right" height="150" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif"><br />
 <div align="left">
 * 🌍  I'm based in Bangladesh<br />
 * 🖥️  See my portfolio at [MyProtfolio](http://nafisa-ali.netlify.app/)<br />
 * ✉️  You can contact me at [nafisaali20006@gmail.com](mailto:nafisaali20006@gmail.com)<br />
 * 🧠  I'm learning Next.js<br />
-</div>
+</div><br /><br />
 
 ## Languages and Tools 💻:
 
