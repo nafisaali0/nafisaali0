@@ -2,7 +2,12 @@ Hey there 👋
 ==================================================================================================================================
 ![CodeGrills Logo](cover2.png)
 <br />
-
+## About Me
+<br />
+<p align="left">
+As a junior frontend developer, I specialize in building dynamic and responsive user interfaces.I use React for creating interactive parts of websites, Express.js to handle server-side tasks, and MongoDB to manage data. I'm skilled in HTML5, CSS3, and JavaScript for building the structure and style of websites. I also use Tailwind CSS to make the styling process smoother.
+</p>
+<br />
 <img alt="Coding" align="right" height="150" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif"><br />
 <div align="left">
 * 🌍  I'm based in Bangladesh<br />
