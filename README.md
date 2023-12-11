@@ -3,11 +3,13 @@ Hey there 👋
 
 Frontend Developer
 ------------------
-
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [MyProtfolio](http://nafisa-ali.netlify.app/)
-* ✉️  You can contact me at [nafisaali20006@gmail.com](mailto:nafisaali20006@gmail.com)
-* 🧠  I'm learning Next.js
+<img alt="Coding" align="right" height="150" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif">
+<div align="left">
+* 🌍  I'm based in Bangladesh<br />
+* 🖥️  See my portfolio at [MyProtfolio](http://nafisa-ali.netlify.app/)<br />
+* ✉️  You can contact me at [nafisaali20006@gmail.com](mailto:nafisaali20006@gmail.com)<br />
+* 🧠  I'm learning Next.js<br />
+</div>
 
 ## Languages and Tools:
 
@@ -16,10 +18,9 @@ Frontend Developer
 </p>
 
 ## Find me around the web 🌎:
-<img align="left" alt="Coding" width="200" src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif"><br /><br /><br /> <br />
-<div align="right">
-  <a href="https://www.github.com/nafisaali0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nafisa-ali-7498121a0/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></div>
-
+<div align="left">
+<a href="https://www.github.com/nafisaali0" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nafisa-ali-7498121a0/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></div>
+</div>
 
 ## 📊 My Github Stats
 <a href="http://www.github.com/nafisaali0"><img align="left" style="width: 45%; height: 150px;" src="https://github-readme-stats.vercel.app/api?username=nafisaali0&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=27272a&hide_border=true&show_icons=true" alt="nafisaali0's GitHub stats" /></a>
