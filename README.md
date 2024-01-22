@@ -12,7 +12,7 @@ As a junior front-end developer, I specialize in building dynamic and responsive
 <div align="left">
 * 🌍  I'm based in Bangladesh<br />
 * 🖥️  See my portfolio at [MyPortfolio](http://nafisa-ali.netlify.app/)<br />
-* ✉️  You can contact me at [nafisaali20006@gmail.com](mailto:nafisaali20006@gmail.com)<br />
+* ✉️  You can contact me at [nafisaali6297@gmail.com](mailto:nafisaali6297@gmail.com)<br />
 * 🧠  I'm learning Mongoose<br />
 * 🎓 Recent graduate with a degree in Computer Science<br />
 </div><br /><br/>
